@@ -1,0 +1,1 @@
+select * from webtracker-379322.mongo_web_tracker_test.sessions
